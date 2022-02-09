@@ -31,7 +31,7 @@ foreach  ($content as $page_Content) {
         echo "<h1>" . $page_Content['h1title'] . "</h1>" . "\r\n";
         // print the H1 tag, insert the variable and then close the tag, followed by a line return (to make the HTML in the browser easier to read)
 
-        echo "<main>" . "\r\n";
+        echo '<main class="highres">' . "\r\n";
         // open the <main> tag, followed by a line return
 
                 echo "<figure>" . "\r\n";

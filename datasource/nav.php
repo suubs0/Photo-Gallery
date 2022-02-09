@@ -4,7 +4,10 @@
 // Example: one include in the footer of a 5000 page web site. Update the copyright + year only once instead of 5000 times.
 ?>
 <ul class="navigation">
-    <li class="home"><a href="/index.php">Home</a></li>
+    <li class="home">
+        <a href="/index.php">
+            <img src="/img/logo.svg" />
+        </a></li>
     <?php 
     // note that the paths start with a /
     // this makes the path root-relative, meaning the path is defined starting from the root folder level
