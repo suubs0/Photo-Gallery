@@ -11,7 +11,7 @@ array (
   'metatitle'         => "Intro to Political Science Poster",
   'metadescription'   => "Intro to Political Science Poster",
   'h1title'           => "Intro to Political Science Poster",
-  'imagepath'         => "/img/8.jpg",
+  'imagepath'         => "/web-design/photo-gallery/img/8.jpg",
   'caption'           => "A poster made for an Introduction to Political Science course",
   'copyright'         => "&copy Subhan Aslam, 2021"),
 

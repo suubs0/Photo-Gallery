@@ -11,7 +11,7 @@ array (
   'metatitle'         => "Vagabond Art Piece",
   'metadescription'   => "Vagabond Art Piece",
   'h1title'           => "Vagabond Art Piece",
-  'imagepath'         => "/img/11.jpg",
+  'imagepath'         => "/web-design/photo-gallery/img/11.jpg",
   'caption'           => "A drawing for a character from the manga Vagabond",
   'copyright'         => "&copy Subhan Aslam, 2021"),
 

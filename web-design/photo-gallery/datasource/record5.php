@@ -11,7 +11,7 @@ array (
   'metatitle'         => "Double Exposure Mockup",
   'metadescription'   => "Double Exposure Mockup",
   'h1title'           => "Double Exposure Mockup",
-  'imagepath'         => "/img/5.jpg",
+  'imagepath'         => "/web-design/photo-gallery/img/5.jpg",
   'caption'           => "A double exposure mockup of a man exposed with rocky mountains",
   'copyright'         => "&copy Subhan Aslam, 2021"),
 

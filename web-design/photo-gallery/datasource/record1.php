@@ -11,7 +11,7 @@ array (   // the first array inside "content":: child array #1
         'metatitle'         => "North Carolina Zoo",
         'metadescription'   => "Summer lake at North Carolina Zoo",
         'h1title'           => "North Carolina Zoo Lake :)",
-        'imagepath'         => "/img/1.jpg",
+        'imagepath'         => "/web-design/photo-gallery/img/1.jpg",
         'caption'           => "Green scenery at North Carolina Zoo during the summer",
         'copyright'         => "&copy Subhan Aslam, 2021"),  // last line ends with a ),
 

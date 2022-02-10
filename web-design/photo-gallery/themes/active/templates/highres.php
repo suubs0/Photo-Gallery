@@ -1,6 +1,6 @@
 <?php
 
-require_once $_SERVER["DOCUMENT_ROOT"]."/config.php";
+require_once $_SERVER["DOCUMENT_ROOT"]."/web-design/photo-gallery/config.php";
 // Always go fetch the config files that has info about how the entire site works
 
 
@@ -17,7 +17,7 @@ foreach  ($content as $page_Content) {
 
 }
 
-require_once $_SERVER["DOCUMENT_ROOT"] . "/themes/active/includes/header.php";
+require_once $_SERVER["DOCUMENT_ROOT"] . "/web-design/photo-gallery/themes/active/includes/header.php";
 // call up the header file to start the html
 
 
@@ -65,7 +65,7 @@ foreach  ($content as $page_Content) {
             // close the <main> tag, followed by a line return 
 
 
-require_once $_SERVER["DOCUMENT_ROOT"] . "/themes/active/includes/footer.php";
+require_once $_SERVER["DOCUMENT_ROOT"] . "/web-design/photo-gallery/themes/active/includes/footer.php";
 // include the footer file here
 
 ?>

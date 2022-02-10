@@ -5,8 +5,8 @@
 ?>
 <ul class="navigation">
     <li class="home">
-        <a href="/index.php">
-            <img src="/img/logo.svg" />
+        <a href="/web-design/photo-gallery/index.php">
+            <img src="/web-design/photo-gallery/img/logo.svg" />
         </a></li>
     <?php 
     // note that the paths start with a /

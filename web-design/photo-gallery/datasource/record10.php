@@ -11,7 +11,7 @@ array (
   'metatitle'         => "Mary's Pizzeria Logo",
   'metadescription'   => "Mary's Pizzeria Logo",
   'h1title'           => "Mary's Pizzeria Logo",
-  'imagepath'         => "/img/10.jpg",
+  'imagepath'         => "/web-design/photo-gallery/img/10.jpg",
   'caption'           => "Logo for a fictional restaurant called Mary's Pizzeria",
   'copyright'         => "&copy Subhan Aslam, 2021"),
 

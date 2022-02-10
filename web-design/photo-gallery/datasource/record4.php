@@ -11,7 +11,7 @@ array (   // the first array inside "content":: child array #1
         'metatitle'         => "Boston Skyline",
         'metadescription'   => "Boston Skyline",
         'h1title'           => "Boston Skyline",
-        'imagepath'         => "/img/4.jpg",
+        'imagepath'         => "/web-design/photo-gallery/img/4.jpg",
         'caption'           => "A part of Boston seen from the highest building in the city",
         'copyright'         => "&copy Subhan Aslam, 2021"),
 

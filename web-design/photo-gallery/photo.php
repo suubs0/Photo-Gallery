@@ -9,14 +9,14 @@
 // Ex: photo.php?id=9 calls up photo #9
 
 
-require_once $_SERVER["DOCUMENT_ROOT"]."/config.php";
+require_once $_SERVER["DOCUMENT_ROOT"]."/web-design/photo-gallery/config.php";
 // fetch the config file
 
 $passedID = $_GET['id'];
 // get the ID number from the incoming URL
 
 
-$datasource =  "/datasource/record" . $passedID . ".php";
+$datasource =  "/web-design/photo-gallery/datasource/record" . $passedID . ".php";
 // create a variable that concatenates /datasource/record + ID number + .php
 
 
@@ -28,6 +28,6 @@ require $concatenated_path_and_ID;
 // for example: require /datasource/record2.php (if the ID is 2)
 // this will pull in the proper data from the datasource folder
 
-require_once $_SERVER["DOCUMENT_ROOT"] . "/themes/active/templates/highres.php";
+require_once $_SERVER["DOCUMENT_ROOT"] . "/web-design/photo-gallery/themes/active/templates/highres.php";
 //  take the info stored in the array within record2.php (if the ID is 2) and fill the blanks in highres.php with it
 ?>

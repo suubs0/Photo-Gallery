@@ -11,7 +11,7 @@ array  // the third array inside "content": child array #3
       'metatitle'         => "Northern Quebec Forest",
       'metadescription'   => "Northern Quebec Forest",
       'h1title'           => "Northern Quebec Forest",
-      'imagepath'         => "/img/3.jpg",
+      'imagepath'         => "/web-design/photo-gallery/img/3.jpg",
       'caption'           => "Green scenery at a forest in northern Quebec during the summer",
       'copyright'         => "&copy Subhan Aslam, 2021"),
 );

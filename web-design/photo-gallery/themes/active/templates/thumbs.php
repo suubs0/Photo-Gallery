@@ -3,9 +3,9 @@
     $metatitle = " Subhan Aslam Work Gallery";
     $metadescription = "Photography Gallery by Billy Poppins";
 
-    require_once $_SERVER["DOCUMENT_ROOT"] . "/datasource/recordset-thumbnails.php";
+    require_once $_SERVER["DOCUMENT_ROOT"] . "/web-design/photo-gallery/datasource/recordset-thumbnails.php";
 
-    require_once $_SERVER["DOCUMENT_ROOT"] . "/themes/active/includes/header.php";
+    require_once $_SERVER["DOCUMENT_ROOT"] . "/web-design/photo-gallery/themes/active/includes/header.php";
 
 
 echo "<h1>" . $metatitle . "</h1>" . "\r\n";
@@ -19,7 +19,7 @@ echo '<main class="thumbs">' . "\r\n";
 foreach  ($content as $thumbnails_Content) {
 echo "<figure>" . "\r\n";
 
-echo '<a href="/photo.php?id=' . $thumbnails_Content['id'] . '">'  . "\r\n"; 
+echo '<a href="/web-design/photo-gallery/photo.php?id=' . $thumbnails_Content['id'] . '">'  . "\r\n"; 
 
 echo '<img src="' .  $thumbnails_Content['imagepath'] . '" alt="' . $thumbnails_Content['metadescription'] . '" />' . "\r\n";
 
@@ -40,6 +40,6 @@ echo "</main>" . "\r\n";
 // close the <main> tag
 
 
-require_once $_SERVER["DOCUMENT_ROOT"] . "/themes/active/includes/footer.php";
+require_once $_SERVER["DOCUMENT_ROOT"] . "/web-design/photo-gallery/themes/active/includes/footer.php";
 
 ?>

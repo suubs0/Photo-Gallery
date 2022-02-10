@@ -11,7 +11,7 @@ array (
   'metatitle'         => "Dispersion Effect Mockup",
   'metadescription'   => "Dispersion Effect Mockup",
   'h1title'           => "Dispersion Effect Mockup",
-  'imagepath'         => "/img/7.jpg",
+  'imagepath'         => "/web-design/photo-gallery/img/7.jpg",
   'caption'           => "Mockup of the dispersion effect used on a skateboarder",
   'copyright'         => "&copy Subhan Aslam, 2021"),
 

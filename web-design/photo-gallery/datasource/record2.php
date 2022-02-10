@@ -11,7 +11,7 @@ array  // the third array inside "content": child array #3
     'metatitle'         => "Sunset Cloud",
     'metadescription'   => "Sunset Cloud in North Carolina",
     'h1title'           => "Sunset Cloud in North Carolina",
-    'imagepath'         => "/img/2.jpg",
+    'imagepath'         => "/web-design/photo-gallery/img/2.jpg",
     'caption'           => "A beautiful sunset cloud in North Carolina",
     'copyright'         => "&copy Subhan Aslam, 2021"),
 );

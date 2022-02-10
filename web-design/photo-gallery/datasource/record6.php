@@ -11,7 +11,7 @@ array (
   'metatitle'         => "Exhibition Invitation Card Mockup",
   'metadescription'   => "Exhibition Invitation Card Mockup",
   'h1title'           => "Exhibition Invitation Card Mockup",
-  'imagepath'         => "/img/6.jpg",
+  'imagepath'         => "/web-design/photo-gallery/img/6.jpg",
   'caption'           => "Mockup of an Exhibition Invitation Card for a fictional art gallery",
   'copyright'         => "&copy Subhan Aslam, 2021"),
 
